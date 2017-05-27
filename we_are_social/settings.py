@@ -125,4 +125,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-SITE_ID = 2
+SITE_ID = 3
